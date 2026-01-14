@@ -1,0 +1,5 @@
+=== Decision Tree — CV (10-fold, scoring=roc_auc) ===
+Best params: {'model__class_weight': None, 'model__max_depth': 15, 'model__min_samples_leaf': 5}
+CV mean: 0.930186 | CV std: 0.009260
+
+Decision Tree | Threshold=0.5 | Accuracy=0.9225 ± 0.0107 | Precision=0.7831 ± 0.0294 | Recall=0.8707 ± 0.0315 | F1-score=0.8246 ± 0.0238 | ROC AUC=0.9283 ± 0.0119

@@ -1,0 +1,5 @@
+=== Random Forest — CV (10-fold, scoring=roc_auc) ===
+Best params: {'model__class_weight': 'balanced_subsample', 'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__n_estimators': 100}
+CV mean: 0.972684 | CV std: 0.001971
+
+Random Forest (tuned threshold) | Threshold=0.6 | Accuracy=0.9461 ± 0.0115 | Precision=0.8818 ± 0.0261 | Recall=0.8571 ± 0.0385 | F1-score=0.8693 ± 0.0294 | ROC AUC=0.9753 ± 0.0087
