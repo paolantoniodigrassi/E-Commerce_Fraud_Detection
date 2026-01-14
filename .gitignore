@@ -1,12 +1,2 @@
 */__pycache__
 Dataset/processed
-Docs/dt_results.txt
-Docs/knn_results.txt
-Docs/log_results.txt
-Docs/mlp_results.txt
-Docs/rf_results.txt
-Docs/roc_dt_cv.png
-Docs/roc_knn_cv.png
-Docs/roc_logreg_cv.png
-Docs/roc_mlp_cv.png
-Docs/roc_rf_cv.png
